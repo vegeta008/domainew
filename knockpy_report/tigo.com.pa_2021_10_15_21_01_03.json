@@ -1,0 +1,210 @@
+{
+    "autodiscover.tigo.com.pa": {
+        "domain": "autod.ms-acdc-autod.office.com",
+        "alias": [
+            "autodiscover.tigo.com.pa",
+            "autodiscover.outlook.com",
+            "autod.ha-autod.office.com"
+        ],
+        "ipaddr": [
+            "52.96.88.56",
+            "52.96.181.104",
+            "52.96.111.72",
+            "52.96.111.120"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ayuda.tigo.com.pa": {
+        "domain": "tigopa.zendesk.com",
+        "alias": [
+            "ayuda.tigo.com.pa"
+        ],
+        "ipaddr": [
+            "104.16.53.111",
+            "104.16.51.111"
+        ],
+        "code": 403,
+        "server": "cloudflare"
+    },
+    "blog.tigo.com.pa": {
+        "domain": "s3723f8.impervadns.net",
+        "alias": [
+            "blog.tigo.com.pa"
+        ],
+        "ipaddr": [
+            "107.154.135.254"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "compras.tigo.com.pa": {
+        "domain": "w7em977.impervadns.net",
+        "alias": [
+            "compras.tigo.com.pa"
+        ],
+        "ipaddr": [
+            "107.154.135.254"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "correo.tigo.com.pa": {
+        "domain": "MNZ-efz.ms-acdc.office.com",
+        "alias": [
+            "correo.tigo.com.pa",
+            "outlook.office.com",
+            "substrate.office.com",
+            "outlook.office365.com",
+            "outlook.ha.office365.com",
+            "outlook.ms-acdc.office.com"
+        ],
+        "ipaddr": [
+            "52.96.88.34",
+            "52.96.109.210",
+            "52.96.87.242",
+            "52.96.111.2"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "digital.tigo.com.pa": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.108.35.151"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "kb.tigo.com.pa": {
+        "domain": "k4ohk78.impervadns.net",
+        "alias": [
+            "kb.tigo.com.pa"
+        ],
+        "ipaddr": [
+            "107.154.135.254"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "m.tigo.com.pa": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "77.32.141.151"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "marketing.tigo.com.pa": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "77.32.141.151"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mi.tigo.com.pa": {
+        "domain": "d1y6642khzcw5r.cloudfront.net",
+        "alias": [
+            "mi.tigo.com.pa"
+        ],
+        "ipaddr": [
+            "13.226.14.116",
+            "13.226.14.45",
+            "13.226.14.51",
+            "13.226.14.117"
+        ],
+        "code": 200,
+        "server": "AmazonS3"
+    },
+    "ns.tigo.com.pa": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.108.32.2"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns2.tigo.com.pa": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.108.32.3"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "pm.tigo.com.pa": {
+        "domain": "9t6uo4q.impervadns.net",
+        "alias": [
+            "pm.tigo.com.pa"
+        ],
+        "ipaddr": [
+            "107.154.135.254"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.46 (Unix) OpenSS"
+    },
+    "promo.tigo.com.pa": {
+        "domain": "yr89seh.impervadns.net",
+        "alias": [
+            "promo.tigo.com.pa"
+        ],
+        "ipaddr": [
+            "107.154.135.254"
+        ],
+        "code": 403,
+        "server": "Apache"
+    },
+    "sip.tigo.com.pa": {
+        "domain": "sipdir.online.lync.com",
+        "alias": [
+            "sip.tigo.com.pa"
+        ],
+        "ipaddr": [
+            "52.112.64.11"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "staging.tigo.com.pa": {
+        "domain": "d1gf7hx0n848tu.cloudfront.net",
+        "alias": [
+            "staging.tigo.com.pa"
+        ],
+        "ipaddr": [
+            "13.227.26.23",
+            "13.227.26.32",
+            "13.227.26.35",
+            "13.227.26.54"
+        ],
+        "code": 401,
+        "server": "CloudFront"
+    },
+    "www.tigo.com.pa": {
+        "domain": "d2ftnqxl9j24kp.cloudfront.net",
+        "alias": [
+            "www.tigo.com.pa"
+        ],
+        "ipaddr": [
+            "13.227.26.122",
+            "13.227.26.85",
+            "13.227.26.29",
+            "13.227.26.19"
+        ],
+        "code": 200,
+        "server": "AmazonS3"
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.1.0",
+        "time_start": 1634331179.7598007,
+        "time_end": 1634331663.6537504,
+        "domain": "tigo.com.pa",
+        "wordlist": 2022
+    }
+}

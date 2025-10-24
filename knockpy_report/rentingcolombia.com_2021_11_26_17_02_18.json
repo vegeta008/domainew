@@ -1,0 +1,263 @@
+{
+    "app.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.31.16.116"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "autodiscover.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "52.242.72.237"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "blog.rentingcolombia.com": {
+        "domain": "group32.sites.hscoscdn30.net",
+        "alias": [
+            "blog.rentingcolombia.com",
+            "4524432.group32.sites.hubspot.net"
+        ],
+        "ipaddr": [
+            "199.60.103.29",
+            "199.60.103.227"
+        ],
+        "code": 404,
+        "server": "cloudflare"
+    },
+    "corporativo.rentingcolombia.com": {
+        "domain": "group32.sites.hscoscdn30.net",
+        "alias": [
+            "corporativo.rentingcolombia.com",
+            "4524432.group32.sites.hubspot.net"
+        ],
+        "ipaddr": [
+            "199.60.103.29",
+            "199.60.103.227"
+        ],
+        "code": 404,
+        "server": "cloudflare"
+    },
+    "enterpriseregistration.rentingcolombia.com": {
+        "domain": "www.tm.prd.adrs.akadns.net",
+        "alias": [
+            "enterpriseregistration.rentingcolombia.com",
+            "EnterpriseRegistration.windows.net",
+            "adrs.privatelink.msidentity.com"
+        ],
+        "ipaddr": [
+            "20.190.131.40"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "enterpriseenrollment.rentingcolombia.com": {
+        "domain": "pexsucpna03.centralus.cloudapp.azure.com",
+        "alias": [
+            "enterpriseenrollment.rentingcolombia.com",
+            "EnterpriseEnrollment-s.manage.microsoft.com",
+            "manage-pe.trafficmanager.net"
+        ],
+        "ipaddr": [
+            "52.182.141.192"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "houston.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.31.16.116"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "intranet.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.31.16.114"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "legacy.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.31.16.117"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "live.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.31.16.114"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "live2.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.41.9.145"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "lyncdiscover.rentingcolombia.com": {
+        "domain": "webdir.online.lync.com",
+        "alias": [
+            "lyncdiscover.rentingcolombia.com"
+        ],
+        "ipaddr": [
+            "52.112.65.78"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "mail.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.41.9.145"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns3.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "201.221.124.27"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns5.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.1.175.12"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "renting.rentingcolombia.com": {
+        "domain": "group32.sites.hscoscdn30.net",
+        "alias": [
+            "renting.rentingcolombia.com",
+            "4524432.group32.sites.hubspot.net"
+        ],
+        "ipaddr": [
+            "199.60.103.29",
+            "199.60.103.227"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "servicios.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "52.251.61.58"
+        ],
+        "code": 503,
+        "server": ""
+    },
+    "sip.rentingcolombia.com": {
+        "domain": "sipdir.online.lync.com",
+        "alias": [
+            "sip.rentingcolombia.com"
+        ],
+        "ipaddr": [
+            "52.112.67.139"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtp.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "52.242.72.237"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "transacciones.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "52.184.192.137"
+        ],
+        "code": 200,
+        "server": "XXXXXXXXXXXXX"
+    },
+    "ts1.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.31.16.121"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ts2.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.31.16.119"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ws2.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "52.247.24.220"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.rentingcolombia.com": {
+        "domain": "group32.sites.hscoscdn30.net",
+        "alias": [
+            "www.rentingcolombia.com",
+            "4524432.group32.sites.hubspot.net"
+        ],
+        "ipaddr": [
+            "199.60.103.227",
+            "199.60.103.29"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "ws1.rentingcolombia.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "52.254.52.122"
+        ],
+        "code": 503,
+        "server": ""
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.2.0",
+        "time_start": 1637945249.7522488,
+        "time_end": 1637946138.2955022,
+        "domain": "rentingcolombia.com",
+        "wordlist": 10758
+    }
+}

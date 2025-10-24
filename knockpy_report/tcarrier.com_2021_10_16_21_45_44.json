@@ -1,0 +1,126 @@
+{
+    "ayuda.tcarrier.com": {
+        "domain": "ghs.googlehosted.com",
+        "alias": [
+            "ayuda.tcarrier.com"
+        ],
+        "ipaddr": [
+            "142.250.78.147"
+        ],
+        "code": 404,
+        "server": "ghs"
+    },
+    "demo.tcarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.90.133.4"
+        ],
+        "code": 500,
+        "server": "CommuniGatePro/6.2.5"
+    },
+    "docs.tcarrier.com": {
+        "domain": "ghs.googlehosted.com",
+        "alias": [
+            "docs.tcarrier.com"
+        ],
+        "ipaddr": [
+            "142.250.78.147"
+        ],
+        "code": 404,
+        "server": "ghs"
+    },
+    "fw.tcarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.46.159.58"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "gmail.tcarrier.com": {
+        "domain": "ghs.googlehosted.com",
+        "alias": [
+            "gmail.tcarrier.com"
+        ],
+        "ipaddr": [
+            "142.250.78.147"
+        ],
+        "code": 404,
+        "server": "ghs"
+    },
+    "mail.tcarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.90.133.70"
+        ],
+        "code": 200,
+        "server": "CommuniGatePro/6.2.5"
+    },
+    "prueba.tcarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.90.132.195"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "software.tcarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.46.159.58"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ups.tcarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "172.20.10.189"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "video.tcarrier.com": {
+        "domain": "ghs.googlehosted.com",
+        "alias": [
+            "video.tcarrier.com"
+        ],
+        "ipaddr": [
+            "142.250.78.147"
+        ],
+        "code": 404,
+        "server": "ghs"
+    },
+    "vpn.tcarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "201.218.92.23"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.tcarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.75.200.5"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.1.0",
+        "time_start": 1634420277.0489953,
+        "time_end": 1634420744.7377162,
+        "domain": "tcarrier.com",
+        "wordlist": 2022
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "admin.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "api.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 404,
+        "server": "cloudflare"
+    },
+    "campaigns.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 404,
+        "server": "cloudflare"
+    },
+    "br.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "courses.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "dash.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "chat.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "54.186.164.194"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "cursos.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "54.187.132.195"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "empresas.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 403,
+        "server": "cloudflare"
+    },
+    "flower.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "grafana.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "email.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "77.32.211.240"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "estudiantes.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "77.32.221.146"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "i.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": 403,
+        "server": "cloudflare"
+    },
+    "jenkins.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "links.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "live.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "master.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 403,
+        "server": "cloudflare"
+    },
+    "mobile.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": 404,
+        "server": "cloudflare"
+    },
+    "logs.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "man.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "198.2.132.179"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "pages.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "sendgrid.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": 404,
+        "server": "cloudflare"
+    },
+    "selenium.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "static.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 403,
+        "server": "cloudflare"
+    },
+    "status.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": 200,
+        "server": "globaledge-envoy"
+    },
+    "www.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.2.0",
+        "time_start": 1634667067.2660916,
+        "time_end": 1634667125.4733446,
+        "domain": "platzi.com",
+        "wordlist": 10756
+    }
+}

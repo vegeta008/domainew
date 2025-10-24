@@ -1,0 +1,30 @@
+{
+    "live.platzi.com.br": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.18.2.219",
+            "104.18.3.219"
+        ],
+        "code": 404,
+        "server": "cloudflare"
+    },
+    "www.platzi.com.br": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.18.3.219",
+            "104.18.2.219"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.2.0",
+        "time_start": 1634736598.286218,
+        "time_end": 1634736672.9042716,
+        "domain": "platzi.com.br",
+        "wordlist": 10756
+    }
+}

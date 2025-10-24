@@ -1,0 +1,29 @@
+{
+    "mail.platzi.cl": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "201.217.243.181"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "www.platzi.cl": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.21.66.75",
+            "172.67.157.127"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.1.0",
+        "time_start": 1634303717.719018,
+        "time_end": 1634304123.580479,
+        "domain": "platzi.cl",
+        "wordlist": 2022
+    }
+}

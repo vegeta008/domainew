@@ -1,0 +1,1568 @@
+{
+    "about.ups.com": {
+        "domain": "e127931.dscx.akamaiedge.net",
+        "alias": [
+            "about.ups.com",
+            "about.ups.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "104.75.170.192",
+            "104.75.170.107"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "access.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.224.50",
+            "153.2.228.50"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "ap.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.230.112",
+            "153.2.226.112"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "app.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "208.94.20.12"
+        ],
+        "code": 403,
+        "server": "Apache"
+    },
+    "article.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.224.60",
+            "153.2.228.60"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "autodiscover.ups.com": {
+        "domain": "e9502.a.akamaiedge.net",
+        "alias": [
+            "autodiscover.ups.com",
+            "autodiscover.ups.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.67.29.142"
+        ],
+        "code": 403,
+        "server": ""
+    },
+    "agent.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.238.24"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "api.ups.com": {
+        "domain": "api.dmz-gslb.ups.com",
+        "alias": [
+            "api.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.104.101"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "b2c.ups.com": {
+        "domain": "b2c.dmz-gslb.ups.com",
+        "alias": [
+            "b2c.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.183.204"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "as2.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.229.136"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "b2b.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.183.120"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "beta.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.224.50",
+            "153.2.228.50"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "basic.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.224.50",
+            "153.2.228.50"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "baseball.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.224.60",
+            "153.2.228.60"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "billing.ups.com": {
+        "domain": "bc-ipn2.paymentus.net",
+        "alias": [
+            "billing.ups.com"
+        ],
+        "ipaddr": [
+            "104.18.84.64",
+            "104.18.83.64"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "brand.ups.com": {
+        "domain": "e127931.dscx.akamaiedge.net",
+        "alias": [
+            "brand.ups.com",
+            "about.ups.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "104.75.170.192",
+            "104.75.170.107"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "bot.ups.com": {
+        "domain": "waws-prod-bn1-011.cloudapp.net",
+        "alias": [
+            "bot.ups.com",
+            "wa-bot-prod.azurewebsites.net",
+            "waws-prod-bn1-011.vip.azurewebsites.windows.net"
+        ],
+        "ipaddr": [
+            "40.84.59.174"
+        ],
+        "code": 200,
+        "server": "Microsoft-IIS/10.0"
+    },
+    "cargo.ups.com": {
+        "domain": "cargo.dmz-gslb.ups.com",
+        "alias": [
+            "cargo.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.234.67"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "beauty.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.242.156"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "beast.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.242.155"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "cable.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.242.115"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "capital.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.230.191",
+            "153.2.226.191"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "citrix.ups.com": {
+        "domain": "secure1.tradesense.net",
+        "alias": [
+            "citrix.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.183.86"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "cod.ups.com": {
+        "domain": "cod.53.com",
+        "alias": [
+            "cod.ups.com"
+        ],
+        "ipaddr": [
+            "216.82.178.156"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "click.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.228.50",
+            "153.2.224.50"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "csa.ups.com": {
+        "domain": "csa.dmz-gslb.ups.com",
+        "alias": [
+            "csa.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.183.244"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "coupons.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.224.60",
+            "153.2.228.60"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "csg.ups.com": {
+        "domain": "www.csg.ups.com",
+        "alias": [
+            "csg.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.228.60"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "challenge.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "209.135.58.168"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "china.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "113.106.161.88"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "community.ups.com": {
+        "domain": "sustainability-old.ups.com",
+        "alias": [
+            "community.ups.com"
+        ],
+        "ipaddr": [
+            "164.177.144.80"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "connect.ups.com": {
+        "domain": "www.connect.ups.com",
+        "alias": [
+            "connect.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.183.116"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "connect2.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.86.223"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "developer.ups.com": {
+        "domain": "e13626.dsca.akamaiedge.net",
+        "alias": [
+            "developer.ups.com",
+            "evdeveloper.ups.com.akadns.net",
+            "evdeveloper2b.ups.com.edgekey.net",
+            "evdeveloper2b.ups.com.edgekey.net.globalredir.akadns.net"
+        ],
+        "ipaddr": [
+            "23.36.185.54"
+        ],
+        "code": 400,
+        "server": "AkamaiGHost"
+    },
+    "dialin.ups.com": {
+        "domain": "mahucext.dmz-gslb.ups.com",
+        "alias": [
+            "dialin.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.181.118"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "dm.ups.com": {
+        "domain": "dm.dmz-gslb.ups.com",
+        "alias": [
+            "dm.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.183.192"
+        ],
+        "code": 403,
+        "server": ""
+    },
+    "ds.ups.com": {
+        "domain": "ds.dmz-gslb.ups.com",
+        "alias": [
+            "ds.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.181.111"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "eds.ups.com": {
+        "domain": "eds.dmz-gslb.ups.com",
+        "alias": [
+            "eds.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.183.192"
+        ],
+        "code": 403,
+        "server": ""
+    },
+    "ec.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.228.50",
+            "153.2.224.50"
+        ],
+        "code": 404,
+        "server": "Apache"
+    },
+    "ebill.ups.com": {
+        "domain": "billingcenter.ups.com",
+        "alias": [
+            "ebill.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.226.95",
+            "153.2.230.95"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "download.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.234.239",
+            "153.2.234.92",
+            "153.2.232.254",
+            "153.2.234.243"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ecom.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.238.99"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ep.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.230.208",
+            "153.2.226.117"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "extra.ups.com": {
+        "domain": "extra.dmz-gslb.ups.com",
+        "alias": [
+            "extra.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.181.247"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "enter.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.228.50",
+            "153.2.224.50"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "fgv.ups.com": {
+        "domain": "fgv.dmz-gslb.ups.com",
+        "alias": [
+            "fgv.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.226.176"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "fixtoken.ups.com": {
+        "domain": "fixtoken.dmz-gslb.ups.com",
+        "alias": [
+            "fixtoken.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.181.195"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "fp.ups.com": {
+        "domain": "h-ups.online-metrix.net",
+        "alias": [
+            "fp.ups.com"
+        ],
+        "ipaddr": [
+            "192.225.158.91"
+        ],
+        "code": 400,
+        "server": "Apache"
+    },
+    "fs.ups.com": {
+        "domain": "fs.dmz-gslb.ups.com",
+        "alias": [
+            "fs.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.183.135"
+        ],
+        "code": 404,
+        "server": "Microsoft-HTTPAPI/2.0"
+    },
+    "forge.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.233.204"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "emails.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "192.28.144.221"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ftp2.ups.com": {
+        "domain": "ftp2.dmz-gslb.ups.com",
+        "alias": [
+            "ftp2.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.234.177"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "enterpriseenrollment.ups.com": {
+        "domain": "mvsp1.ups.com",
+        "alias": [
+            "enterpriseenrollment.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.243.82"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "events.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "74.121.50.58"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ftp.ups.com": {
+        "domain": "gaalplpapp00342.ups.com",
+        "alias": [
+            "ftp.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.244.164"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ftp1.ups.com": {
+        "domain": "gaalplpapp00342.ups.com",
+        "alias": [
+            "ftp1.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.244.164"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ftp3.ups.com": {
+        "domain": "ftp3.dmz-gslb.ups.com",
+        "alias": [
+            "ftp3.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.164.142"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "gateway.ups.com": {
+        "domain": "gateway.dmz-gslb.ups.com",
+        "alias": [
+            "gateway.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.229.151"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "go.ups.com": {
+        "domain": "mkto-ab180024.com",
+        "alias": [
+            "go.ups.com"
+        ],
+        "ipaddr": [
+            "104.17.72.206",
+            "104.17.74.206",
+            "104.17.70.206",
+            "104.17.73.206",
+            "104.17.71.206"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "gemini.ups.com": {
+        "domain": "gemini.dmz-gslb.ups.com",
+        "alias": [
+            "gemini.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.183.211"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "healthcare.ups.com": {
+        "domain": "e14281.dsca.akamaiedge.net",
+        "alias": [
+            "healthcare.ups.com",
+            "redirects.ups.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.67.23.219"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "holidays.ups.com": {
+        "domain": "e14281.dsca.akamaiedge.net",
+        "alias": [
+            "holidays.ups.com",
+            "redirects.ups.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.67.23.219"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "horizon.ups.com": {
+        "domain": "horizon.dmz-gslb.ups.com",
+        "alias": [
+            "horizon.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.183.185"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "holiday.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.228.60",
+            "153.2.224.60"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "image.ups.com": {
+        "domain": "a1819.g1.akamai.net",
+        "alias": [
+            "image.ups.com",
+            "img.ed4.net",
+            "instantconfig.ed4.net",
+            "instantconfig.ed4.net.mdc.edgesuite.net"
+        ],
+        "ipaddr": [
+            "181.54.161.11",
+            "181.54.161.67"
+        ],
+        "code": 403,
+        "server": "AkamaiGHost"
+    },
+    "import.ups.com": {
+        "domain": "v8ucrvm.impervadns.net",
+        "alias": [
+            "import.ups.com"
+        ],
+        "ipaddr": [
+            "45.223.45.116"
+        ],
+        "code": 403,
+        "server": ""
+    },
+    "ha.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.73.45",
+            "153.2.72.45"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "houston.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.130.250.9"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ids.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "34.228.104.117"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ids2.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "34.228.104.117"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "investors.ups.com": {
+        "domain": "investors.ups.com.web-geo.equisolve.com",
+        "alias": [
+            "investors.ups.com"
+        ],
+        "ipaddr": [
+            "13.227.26.86",
+            "13.227.26.27",
+            "13.227.26.117",
+            "13.227.26.65"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "invest.ups.com": {
+        "domain": "ir.ccbn.com",
+        "alias": [
+            "invest.ups.com"
+        ],
+        "ipaddr": [
+            "155.46.168.2"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ice.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.230.115",
+            "153.2.226.115"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "l.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "96.47.24.46"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "locations.ups.com": {
+        "domain": "app.ups.east.rls.rioseo.com",
+        "alias": [
+            "locations.ups.com",
+            "locations.ups.com.prod.rioseo.com",
+            "app.ups.rls.rioseo.com"
+        ],
+        "ipaddr": [
+            "52.5.17.230",
+            "52.71.134.16"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "link.ups.com": {
+        "domain": "redirect.bo3.ed10.net.akadns.net",
+        "alias": [
+            "link.ups.com",
+            "ups.ed10.net"
+        ],
+        "ipaddr": [
+            "208.94.20.19"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "io.ups.com": {
+        "domain": "upsb2b.int-aws-us.webmethods.io",
+        "alias": [
+            "io.ups.com"
+        ],
+        "ipaddr": [
+            "54.188.189.129",
+            "44.236.54.231"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "lyncdiscover.ups.com": {
+        "domain": "mahucext.dmz-gslb.ups.com",
+        "alias": [
+            "lyncdiscover.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.181.118"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "m.ups.com": {
+        "domain": "e14281.x.akamaiedge.net",
+        "alias": [
+            "m.ups.com",
+            "m2.ups.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "104.91.146.16"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "meet.ups.com": {
+        "domain": "mahucext.dmz-gslb.ups.com",
+        "alias": [
+            "meet.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.181.118"
+        ],
+        "code": 403,
+        "server": ""
+    },
+    "metrics.ups.com": {
+        "domain": "ups.com.sc.omtrdc.net",
+        "alias": [
+            "metrics.ups.com"
+        ],
+        "ipaddr": [
+            "52.0.93.32",
+            "18.205.241.19",
+            "44.194.25.77",
+            "54.163.234.74",
+            "34.204.237.47",
+            "3.216.131.23"
+        ],
+        "code": 200,
+        "server": "jag"
+    },
+    "luna.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.232.40"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mta.ups.com": {
+        "domain": "mta.dmz-gslb.ups.com",
+        "alias": [
+            "mta.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.183.246"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "mta2.ups.com": {
+        "domain": "mta2.dmz-gslb.ups.com",
+        "alias": [
+            "mta2.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.183.246"
+        ],
+        "code": 403,
+        "server": ""
+    },
+    "mrs.ups.com": {
+        "domain": "mrs.dmz-gslb.ups.com",
+        "alias": [
+            "mrs.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.183.36"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mrc.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.183.43"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "my.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.224.50",
+            "153.2.228.50"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "omega.ups.com": {
+        "domain": "omega-wzp.ups.com",
+        "alias": [
+            "omega.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.183.41"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "newsroom.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "209.135.58.171"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "nsa.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.242.115"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "nsb.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.244.155"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mcp.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.243.213",
+            "153.2.245.159",
+            "153.2.245.164",
+            "153.2.243.208"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "navigator.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "208.99.171.196",
+            "208.99.171.164"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "passport.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.183.235"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "partner.ups.com": {
+        "domain": "partner.eastus2.cloudapp.azure.com",
+        "alias": [
+            "partner.ups.com",
+            "prod-partnerosp.trafficmanager.net"
+        ],
+        "ipaddr": [
+            "20.109.7.32"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "origin-m.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.228.69",
+            "153.2.224.69"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "pressroom.ups.com": {
+        "domain": "e127931.dscx.akamaiedge.net",
+        "alias": [
+            "pressroom.ups.com",
+            "about.ups.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "104.75.170.107",
+            "104.75.170.192"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "pipeline.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.234.155"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "posta.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "204.148.21.35"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "redirect.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.224.130",
+            "153.2.228.130"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "rms.ups.com": {
+        "domain": "rms.dmz-gslb.ups.com",
+        "alias": [
+            "rms.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.230.150"
+        ],
+        "code": 404,
+        "server": "Apache"
+    },
+    "ru.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.228.150",
+            "153.2.224.150"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "ps1.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.4.240"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ps2.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.4.241"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ras.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.239.14"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "rogue.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.247.30"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "proxy.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.227.107",
+            "153.2.231.107"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "securemail.ups.com": {
+        "domain": "pe-002b8001.gslb.pphosted.com",
+        "alias": [
+            "securemail.ups.com"
+        ],
+        "ipaddr": [
+            "148.163.154.203"
+        ],
+        "code": 403,
+        "server": ""
+    },
+    "secure.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "156.134.97.131",
+            "156.134.65.131",
+            "156.134.65.132",
+            "156.134.97.130",
+            "156.134.97.132",
+            "156.134.65.130"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sis.ups.com": {
+        "domain": "sis1.dmz-gslb.ups.com",
+        "alias": [
+            "sis.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.183.195"
+        ],
+        "code": 403,
+        "server": ""
+    },
+    "smetrics.ups.com": {
+        "domain": "ups.com.ssl.sc.omtrdc.net",
+        "alias": [
+            "smetrics.ups.com"
+        ],
+        "ipaddr": [
+            "54.163.234.74",
+            "34.204.237.47",
+            "3.216.131.23",
+            "52.0.93.32",
+            "18.205.241.19",
+            "44.194.25.77"
+        ],
+        "code": 200,
+        "server": "jag"
+    },
+    "social.ups.com": {
+        "domain": "lb-d.us1.gigya.com",
+        "alias": [
+            "social.ups.com",
+            "ups.sslproxy.gigya.com",
+            "sslproxy.us1.gigya.com",
+            "farm5.us1.gigya.com"
+        ],
+        "ipaddr": [
+            "18.210.153.8",
+            "107.23.67.121",
+            "18.205.77.36",
+            "18.209.204.66",
+            "107.23.218.60",
+            "52.2.141.183",
+            "18.210.235.241",
+            "18.211.61.121",
+            "18.206.141.83",
+            "54.88.149.194"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "si.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.224.150",
+            "153.2.228.150"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "solutions.ups.com": {
+        "domain": "ab18.mktossl.com",
+        "alias": [
+            "solutions.ups.com",
+            "unitedparcel.mktoweb.com"
+        ],
+        "ipaddr": [
+            "104.17.73.206",
+            "104.17.74.206",
+            "104.17.71.206",
+            "104.17.70.206",
+            "104.17.72.206"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "seg.ups.com": {
+        "domain": "seg.dmz-gslb.ups.com",
+        "alias": [
+            "seg.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.181.113"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sda.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "209.235.20.196"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sftp.ups.com": {
+        "domain": "sftp.dmz-gslb.ups.com",
+        "alias": [
+            "sftp.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.235.203"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "services.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.242.115"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "stories.ups.com": {
+        "domain": "e127931.dscx.akamaiedge.net",
+        "alias": [
+            "stories.ups.com",
+            "about.ups.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "104.75.170.192",
+            "104.75.170.107"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sslvpn.ups.com": {
+        "domain": "sslvpn.dmz-gslb.ups.com",
+        "alias": [
+            "sslvpn.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.234.25"
+        ],
+        "code": 200,
+        "server": "CPWS"
+    },
+    "storelocator.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.226.181",
+            "153.2.230.181"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "tags.ups.com": {
+        "domain": "e8091.a.akamaiedge.net",
+        "alias": [
+            "tags.ups.com",
+            "tags.tiqcdn.com",
+            "tags.tiqcdn.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.36.184.183"
+        ],
+        "code": 400,
+        "server": "AkamaiGHost"
+    },
+    "sustainability.ups.com": {
+        "domain": "e127931.dscx.akamaiedge.net",
+        "alias": [
+            "sustainability.ups.com",
+            "about.ups.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "104.75.170.192",
+            "104.75.170.107"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tfs.ups.com": {
+        "domain": "tfs.dmz-gslb.ups.com",
+        "alias": [
+            "tfs.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.8.220"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "trs.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "52.252.16.76"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tour.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.224.60",
+            "153.2.228.60"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "ua.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.228.150",
+            "153.2.224.150"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "upsapps.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.230.181",
+            "153.2.226.181"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "time1.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.242.115"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "time2.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.244.155"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "video.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.243.228",
+            "153.2.243.229"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "view.ups.com": {
+        "domain": "view.ed4.net",
+        "alias": [
+            "view.ups.com"
+        ],
+        "ipaddr": [
+            "208.94.20.11"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "time.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.242.115",
+            "153.2.244.155"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "us.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.23.17"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vsp.ups.com": {
+        "domain": "vsp.dmz-gslb.ups.com",
+        "alias": [
+            "vsp.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.243.82"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "web.ups.com": {
+        "domain": "web.dmz-gslb.ups.com",
+        "alias": [
+            "web.ups.com"
+        ],
+        "ipaddr": [
+            "153.2.245.181"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "welcome.ups.com": {
+        "domain": "e14281.dsca.akamaiedge.net",
+        "alias": [
+            "welcome.ups.com",
+            "redirects.ups.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.67.23.219"
+        ],
+        "code": 503,
+        "server": "AkamaiGHost"
+    },
+    "www.ups.com": {
+        "domain": "e13626.a.akamaiedge.net",
+        "alias": [
+            "www.ups.com",
+            "ev.ups.com.akadns.net",
+            "ev1.ups.com.akadns.net",
+            "ev2b.ups.com.edgekey.net",
+            "ev2b.ups.com.edgekey.net.globalredir.akadns.net"
+        ],
+        "ipaddr": [
+            "23.36.185.54"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "wwwapps.ups.com": {
+        "domain": "e13626.a.akamaiedge.net",
+        "alias": [
+            "wwwapps.ups.com",
+            "evapps.ups.com.akadns.net",
+            "evapps1.ups.com.akadns.net",
+            "evapps2b.ups.com.edgekey.net",
+            "evapps2b.ups.com.edgekey.net.globalredir.akadns.net"
+        ],
+        "ipaddr": [
+            "23.36.185.54"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "vcs.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.245.8",
+            "153.2.243.61"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "watson.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.224.35",
+            "153.2.228.5"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "webmail.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.224.142"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "wifi.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "172.22.192.1"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "wws.ups.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "153.2.224.120",
+            "153.2.228.120"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.2.0",
+        "time_start": 1645035437.841849,
+        "time_end": 1645035654.8876414,
+        "domain": "ups.com",
+        "wordlist": 10760
+    }
+}

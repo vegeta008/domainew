@@ -1,0 +1,188 @@
+{
+    "admin.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "api.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 404,
+        "server": "cloudflare"
+    },
+    "br.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "chat.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "54.186.164.194"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "courses.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "email.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "77.32.211.240"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "empresas.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": 403,
+        "server": "cloudflare"
+    },
+    "grafana.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "i.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 403,
+        "server": "cloudflare"
+    },
+    "jenkins.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "live.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "logs.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "master.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 403,
+        "server": "cloudflare"
+    },
+    "mobile.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": 404,
+        "server": "cloudflare"
+    },
+    "pages.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.175.85",
+            "104.17.176.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "static.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 403,
+        "server": "cloudflare"
+    },
+    "status.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 200,
+        "server": "globaledge-envoy"
+    },
+    "www.platzi.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.17.176.85",
+            "104.17.175.85"
+        ],
+        "code": 200,
+        "server": "cloudflare"
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.1.0",
+        "time_start": 1634303716.6778264,
+        "time_end": 1634304152.1747358,
+        "domain": "platzi.com",
+        "wordlist": 2022
+    }
+}

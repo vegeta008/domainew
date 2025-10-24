@@ -1,0 +1,146 @@
+{
+    "av.telecarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.90.132.52"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ayuda.telecarrier.com": {
+        "domain": "ghs.googlehosted.com",
+        "alias": [
+            "ayuda.telecarrier.com"
+        ],
+        "ipaddr": [
+            "142.250.78.147"
+        ],
+        "code": 404,
+        "server": "ghs"
+    },
+    "cpanel.telecarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.46.0.3"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "db.telecarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.90.132.187"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "dialup.telecarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.90.132.195"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "docs.telecarrier.com": {
+        "domain": "ghs.googlehosted.com",
+        "alias": [
+            "docs.telecarrier.com"
+        ],
+        "ipaddr": [
+            "142.250.78.147"
+        ],
+        "code": 404,
+        "server": "ghs"
+    },
+    "ftp.telecarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.46.0.3"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "gmail.telecarrier.com": {
+        "domain": "ghs.googlehosted.com",
+        "alias": [
+            "gmail.telecarrier.com"
+        ],
+        "ipaddr": [
+            "142.250.78.147"
+        ],
+        "code": 404,
+        "server": "ghs"
+    },
+    "intranet.telecarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "172.20.36.27"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mail.telecarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.90.133.74"
+        ],
+        "code": 500,
+        "server": "CommuniGatePro/6.2.5"
+    },
+    "sip.telecarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.90.132.50"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "video.telecarrier.com": {
+        "domain": "ghs.googlehosted.com",
+        "alias": [
+            "video.telecarrier.com"
+        ],
+        "ipaddr": [
+            "142.250.78.147"
+        ],
+        "code": 404,
+        "server": "ghs"
+    },
+    "virtualidc2.telecarrier.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "200.46.156.150"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.telecarrier.com": {
+        "domain": "ur6kk5a.x.incapdns.net",
+        "alias": [
+            "www.telecarrier.com"
+        ],
+        "ipaddr": [
+            "45.60.230.197"
+        ],
+        "code": 200,
+        "server": "AmazonS3"
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.1.0",
+        "time_start": 1634419440.8560507,
+        "time_end": 1634419919.9608884,
+        "domain": "telecarrier.com",
+        "wordlist": 2023
+    }
+}
